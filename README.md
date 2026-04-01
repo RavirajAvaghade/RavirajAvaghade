@@ -1,21 +1,23 @@
-## Hi there 👋
-## 🚀 Tech Stack
+# 👋 Hi, I'm Raviraj
 
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Spring+Boot+Developer&center=true&color=00FF00)
+
+---
+
+## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,spring,mysql,aws" />
 </p>
 
-<!--
-**RavirajAvaghade/RavirajAvaghade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
