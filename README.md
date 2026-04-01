@@ -1,6 +1,14 @@
 # 👋 Hi, I'm Raviraj
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Spring+Boot+Developer&center=true&color=00FF00)
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Developer;Spring+Boot+Developer;Backend+Engineer&center=true&color=00FF00)
+
+---
+
+## 👨‍💻 About Me
+- 💻 Full Stack Developer  
+- ☕ Java + Spring Boot Developer  
+- 🚀 Passionate about building real-world applications  
+- 🔥 Love solving problems & creating projects  
 
 ---
 
@@ -9,15 +17,58 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,spring,mysql,aws" />
 </p>
 
+### ⚙️ Other Technologies
+- Hibernate  
+- Microservices  
+
+---
+
+## 📌 Featured Projects
+- 🔹 ATM Banking System (Java + JSP + Servlet)  
+- 🔹 Movie Recommendation System  
+- 🔹 Portfolio Website  
+
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ravirajavaghade&show_icons=true&theme=radical&count_private=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirajavaghade&layout=donut)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravirajavaghade&show_icons=true&theme=radical&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravirajavaghade&layout=donut"/>
+</p>
 
 ![Streak](https://streak-stats.demolab.com?user=ravirajavaghade&theme=radical)
+
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=RavirajAvaghade&color=blue)
+## 🏆 Achievements
+![Trophy](https://github-profile-trophy.vercel.app/?username=ravirajavaghade&theme=radical)
+
+---
+
+## 📈 Activity Graph
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=ravirajavaghade&theme=react-dark)
+
+---
+
+## 🐍 Contribution Snake
+![Snake](https://github.com/ravirajavaghade/ravirajavaghade/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge)](https://instagram.com/)
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=ravirajavaghade&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+---
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+---
+
+> 💡 "Code. Learn. Build. Repeat."
