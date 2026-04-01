@@ -1,4 +1,9 @@
 ## Hi there 👋
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,mysql,github" />
+</p>
 
 <!--
 **RavirajAvaghade/RavirajAvaghade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
