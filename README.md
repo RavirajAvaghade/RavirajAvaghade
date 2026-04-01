@@ -12,12 +12,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=RavirajAvaghade&show_icons=true&theme=radical)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavirajAvaghade&layout=donut)
+![Stats](https://github-readme-stats.vercel.app/api?username=ravirajavaghade&show_icons=true&theme=radical&count_private=true)
 
-![Streak](https://streak-stats.demolab.com?user=RavirajAvaghade&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirajavaghade&layout=donut)
 
+![Streak](https://streak-stats.demolab.com?user=ravirajavaghade&theme=radical)
 ---
 
 ![Visitors](https://komarev.com/ghpvc/?username=RavirajAvaghade&color=blue)
