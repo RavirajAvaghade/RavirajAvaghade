@@ -57,8 +57,8 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/raviraj-avaghade-413b0b301//)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge)](https://www.instagram.com/raviraj_____17/?hl=en/)
 
 ---
 
