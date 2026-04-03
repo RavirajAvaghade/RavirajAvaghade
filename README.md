@@ -24,9 +24,10 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 ATM Banking System (Java + JSP + Servlet)  
-- 🔹 Movie Recommendation System  
-- 🔹 Portfolio Website  
+- 🔹 Car rental System
+- 🔹 Hospital Managment System
+- 🔹 E-book
+- 🔹 cake shopping 
 
 ---
 
