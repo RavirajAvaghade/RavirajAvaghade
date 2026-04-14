@@ -170,11 +170,6 @@ public class Raviraj extends Developer {
 </div>
 
 ---
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@ravirajavaghadetheme=rule34" />
-</p>
 
 ## 🌐 Connect with Me
 
