@@ -65,7 +65,7 @@
 
 ⚡ &nbsp;**Fun fact:** I debug code faster with coffee ☕ and music 🎵
 
-📫 &nbsp;**Reach me:** ravirajavaghade@gmail.com
+📫 &nbsp;**Reach me:** ravirajavaghade508@gmail.com
 
 <br/>
 
