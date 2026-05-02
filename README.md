@@ -24,11 +24,11 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/ravirajavaghade" target="_blank">
+  <a href="https://github.com/RavirajAvaghade" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:ravirajavaghade@gmail.com">
+  <a href="mailto:ravirajavaghade508@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -71,8 +71,6 @@
 
 <table>
 <tr>
-<td align="center">
-</td>
 <td align="center">
 <img src="https://img.shields.io/badge/Projects-10%2B%20Built-00D4FF?style=for-the-badge&logoColor=white"/>
 </td>
@@ -274,48 +272,6 @@ Standalone authentication & authorization microservice with JWT token management
 | 🐋 Docker & DevOps | `██████░░░░░░░░░░░░░░` | **30% — Learning** |
 
 </div>
-
----
-
-## 🗺️ My Developer Journey
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                 🚀 RAVIRAJ'S DEV JOURNEY                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🏁 2022  ──►  Started Core Java + DSA fundamentals          ║
-║     │                                                        ║
-║     ▼                                                        ║
-║  🗄️ 2022  ──►  Built first CRUD App with Java + MySQL         ║
-║     │                                                        ║
-║     ▼                                                        ║
-║  ⚙️  2023  ──►  Mastered Spring Framework & Spring Boot       ║
-║     │                                                        ║
-║     ▼                                                        ║
-║  🏥 2023  ──►  Hospital & Car Rental System deployed          ║
-║     │                                                        ║
-║     ▼                                                        ║
-║  ⚛️  2024  ──►  React + Full Stack Development mastered       ║
-║     │                                                        ║
-║     ▼                                                        ║
-║  🔧 2024  ──►  Microservices Architecture exploration         ║
-║     │                                                        ║
-║     ▼                                                        ║
-║  🐋 2025  ──►  Docker · Kubernetes · System Design           ║
-║     │                                                        ║
-║     ▼                                                        ║
-║  ✅ NOW   ──►  Open to Internship / Full-Time Roles! 🎯       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
