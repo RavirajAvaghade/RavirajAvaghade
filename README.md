@@ -248,11 +248,11 @@ Standalone authentication & authorization microservice with JWT token management
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ravirajavaghade&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12&bg_color=0d1117&title_color=00D4FF&icon_color=ff6b9d&text_color=ffffff&border_color=533483"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ravirajavaghade&layout=compact&theme=radical&border_radius=12&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&border_color=533483&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RavirajAvaghade&layout=compact&theme=radical&border_radius=12&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&border_color=533483&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ravirajavaghade&theme=radical&hide_border=false&border_radius=12&background=0D1117&ring=00D4FF&fire=FF6B9D&currStreakLabel=00D4FF&stroke=533483&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RavirajAvaghade&theme=radical&hide_border=false&border_radius=12&background=0D1117&ring=00D4FF&fire=FF6B9D&currStreakLabel=00D4FF&stroke=533483&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=888888" width="70%"/>
 
 </div>
 
