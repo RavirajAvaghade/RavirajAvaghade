@@ -72,7 +72,6 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-blueviolet?style=for-the-badge&logoColor=white"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Projects-10%2B%20Built-00D4FF?style=for-the-badge&logoColor=white"/>
