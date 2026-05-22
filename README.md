@@ -113,13 +113,12 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,maven&theme=dark"/>
 </p>
 
-</div>
-### ☁️ Cloud & DevOps
+ ☁️ Cloud & DevOps
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,githubactions,linux,bash,nginx,redis,kafka&theme=dark"/>
 </p>
 
-### 🧪 Testing & Automation Tools
+🧪 Testing & Automation Tools
 <p>
 <img src="https://skillicons.dev/icons?i=selenium&theme=dark"/>
 &nbsp;
@@ -129,7 +128,7 @@
 <img src="https://img.shields.io/badge/TestNG-FF9800?style=for-the-badge&logo=testng&logoColor=white"/>
 </p>
 
-### 🔐 DevSecOps & Monitoring Tools
+ 🔐 DevSecOps & Monitoring Tools
 <p>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark"/>
 &nbsp;
@@ -137,6 +136,9 @@
 <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
 </p>
+
+</div>
+
 ---
 
 ## 🚀 Featured Projects
