@@ -114,7 +114,29 @@
 </p>
 
 </div>
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,githubactions,linux,bash,nginx,redis,kafka&theme=dark"/>
+</p>
 
+### 🧪 Testing & Automation Tools
+<p>
+<img src="https://skillicons.dev/icons?i=selenium&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF9800?style=for-the-badge&logo=testng&logoColor=white"/>
+</p>
+
+### 🔐 DevSecOps & Monitoring Tools
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+</p>
 ---
 
 ## 🚀 Featured Projects
