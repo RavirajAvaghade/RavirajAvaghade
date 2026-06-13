@@ -59,7 +59,7 @@
 
 🚀 &nbsp;**Currently focused on:** Microservices, System Design & Cloud Technologies
 
-🌱 &nbsp;**Currently learning:** `Docker` · `Kubernetes` · `Redis` · `System Design`
+🌱 &nbsp;**Currently learning:** Spring , SPring Boot,Microservicess,Hibernet,
 
 🤝 &nbsp;**Looking to collaborate on:** Open Source Java / React projects
 
