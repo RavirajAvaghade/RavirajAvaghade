@@ -308,9 +308,9 @@ Standalone authentication & authorization microservice with JWT token management
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ravirajavaghade/ravirajavaghade/blob/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ravirajavaghade/ravirajavaghade/blob/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Snake Animation" src="https://github.com/ravirajavaghade/ravirajavaghade/blob/output/github-contribution-grid-snake.svg" width="90%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RavirajAvaghade/RavirajAvaghade/blob/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RavirajAvaghade/RavirajAvaghade/blob/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Snake Animation" src="https://github.com/RavirajAvaghade/RavirajAvaghade/blob/output/github-contribution-grid-snake.svg" width="90%"/>
   </picture>
 </div>
 
