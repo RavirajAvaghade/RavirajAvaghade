@@ -296,19 +296,6 @@ Standalone authentication & authorization microservice with JWT token management
 | 🐋 Docker & DevOps | `██████░░░░░░░░░░░░░░` | **30% — Learning** |
 
 </div>
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RavirajAvaghade&theme=radical&no-frame=false&margin-w=6&margin-h=6&row=1&column=7"/>
-</div>
-
----
-<!--
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=RavirajAvaghade&theme=radical)
--->
-
 ## 📈 Contribution Activity
 
 <div align="center">
