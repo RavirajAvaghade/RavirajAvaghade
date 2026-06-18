@@ -303,6 +303,11 @@ Standalone authentication & authorization microservice with JWT token management
 </div>
 
 ---
+<!--
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=RavirajAvaghade&theme=radical)
+-->
 
 ## 📈 Contribution Activity
 
