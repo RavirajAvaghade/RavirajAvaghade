@@ -299,7 +299,7 @@ Standalone authentication & authorization microservice with JWT token management
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravirajavaghade&theme=radical&no-frame=false&margin-w=6&margin-h=6&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RavirajAvaghade&theme=radical&no-frame=false&margin-w=6&margin-h=6&row=1&column=7"/>
 </div>
 
 ---
